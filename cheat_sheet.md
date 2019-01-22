@@ -1,6 +1,6 @@
 
 
-git init
+git init <br>
 git add .
 git origin add 
 git 
