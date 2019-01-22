@@ -1,9 +1,9 @@
 
 
-git init <br>
-git add .
-git origin add 
-git 
+`git init <br>`
+`git add . <br>`
+`git origin add <br>`
+
 
 //change repo name
 
