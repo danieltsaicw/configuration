@@ -14,5 +14,5 @@ https://github.com/trufflesuite/truffle <br>
 configure `truffle-config.js`<br>
 
 
-[Truffle.js Tutorial Part 1- Ethereum Development Environment Installation & Walkthrough](https://www.youtube.com/watch?v=2fSPn0-8ORs)
-[Truffle.js Tutorial Part 2 - Code, Migrations and Deploying](https://www.youtube.com/watch?v=xvS5XW5ska8)
+[Truffle.js Tutorial Part 1- Ethereum Development Environment Installation & Walkthrough](https://www.youtube.com/watch?v=2fSPn0-8ORs)<br>
+[Truffle.js Tutorial Part 2 - Code, Migrations and Deploying](https://www.youtube.com/watch?v=xvS5XW5ska8)<br>
