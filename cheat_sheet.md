@@ -4,9 +4,9 @@
 
 
 // set ssh key for easy loggin
-`$ssh-keygen`
-`$cat ~/.bashrc | pcoby`
-`$ssh -T git@github.com`
+`$ssh-keygen` <br>
+`$cat ~/.bashrc | pcoby` <br>
+`$ssh -T git@github.com` <br>
 
 
 
