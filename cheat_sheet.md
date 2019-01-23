@@ -1,4 +1,4 @@
-// set ssh key for easy loggin [optional]
+// set ssh key for easy loggin [optional] <br>
 `$ssh-keygen -t rsa -b 4096 -C "<xxx@xxx.com"` <br>
 `$cat ~/.bashrc | pcoby` <br>
 `$ssh-add` <br>
