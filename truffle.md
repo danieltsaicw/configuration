@@ -7,5 +7,6 @@ https://github.com/trufflesuite/truffle <br>
 
 `sudo truffle test`
 
-`npm install -g ethereumjs-testrpc`<br>
+~~`npm install -g ethereumjs-testrpc`<br>~~
+`npm install -g ganache-cli`
 `testrpc`
