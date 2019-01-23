@@ -2,5 +2,10 @@
 https://github.com/trufflesuite/truffle <br>
 
 
-`npm install -g truffle` (NOT sudo)<br>
+`sudo npm install -g truffle` <br>
 `truffle init` or `truffle unbox metacoin`
+
+`sudo truffle test`
+
+`npm install -g ethereumjs-testrpc`
+`testrpc`
