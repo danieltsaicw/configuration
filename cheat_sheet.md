@@ -14,7 +14,8 @@
 
 
 
-
+//
+`$git satus`<br>
 
 
 //change repo name
