@@ -2,7 +2,7 @@
 `$ssh-keygen -t rsa -b 4096 -C "<xxx@xxx.com"` <br>
 `$cat ~/.bashrc | pcoby` <br>
 `$ssh-add` <br>
-`$ssh -T git@github.com` <br> //expect: Hi <username>! You've successfully authenticated, but GitHub does not provide shell access.
+`$ssh -T git@github.com`  //test &expect: Hi <username>! You've successfully authenticated, but GitHub does not provide shell access. <br>
 
 
 
