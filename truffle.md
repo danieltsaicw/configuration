@@ -24,4 +24,5 @@ configure `truffle-config.js`<br>
 
 
 RPC = remote procedure calls <br>
+  e.g. Ganache is a RPC <br>
 IPC = inter procsess communications <br>
