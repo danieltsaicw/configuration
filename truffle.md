@@ -16,6 +16,7 @@ configure `truffle-config.js`<br>
 `truffle develop`<br>
 (truffle)`complie`<br>
 (truffle)`migrate`<br>
+(truffle) `migrate reset` (if Error: Returned values aren't valid, did it run Out of Gas?)<br>
 
 
 [Truffle.js Tutorial Part 1- Ethereum Development Environment Installation & Walkthrough](https://www.youtube.com/watch?v=2fSPn0-8ORs)<br>
