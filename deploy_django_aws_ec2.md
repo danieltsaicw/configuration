@@ -7,5 +7,8 @@ ssh -i <key_name>.pem ubuntu@ec2-XXX-XXX-XXX-XXX.<location>.compute.amazonaws.co
 `$diango-admin manage.py migrate`<br>
 right click Instance, Networking, Change Security Group
 `$python manage.py runserver 0.0.0.0:8000`<br>
+#settings.py
+ALLOWED_HOST = [<host_name>]
+
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
