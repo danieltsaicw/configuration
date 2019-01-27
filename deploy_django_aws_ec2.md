@@ -1,3 +1,11 @@
+python -v 
+Django -v
+ubuntu 16.04 LTS
+Nginx on AWS EC2
+git
+
+
+
 AWS
 
 ssh -i <key_name>.pem <usernmae>@ec2-XXX-XXX-XXX-XXX.<location>.compute.amazonaws.com <br>
