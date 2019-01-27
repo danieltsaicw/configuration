@@ -11,6 +11,8 @@
 'git commit -m '<first_commit>'<br>
 
 `git remote add origin https://github.com/<user>/<repo>.git`<br>
+`git remote -v`<br>
+`git remote show <origin>`<br>
 `git push -u origin master` # requires credential without '-u'<br> 
 
 
@@ -23,3 +25,6 @@
 
 
 `git fetch`<br>
+`git checkout master`<br>
+`git merge [TAB] <branch_name>`<br>
+`git branch -d [TAB] <branch_name>`<br>
