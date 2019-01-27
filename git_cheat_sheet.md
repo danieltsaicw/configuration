@@ -14,8 +14,7 @@
 
 `$git remote add origin https://github.com/<user>/<repo>.git`<br>
 
-//push to cloud
-`$git push -u origin master` <br>
+`$git push -u origin master` # requires credential without '-u'<br> 
 
 
 //
