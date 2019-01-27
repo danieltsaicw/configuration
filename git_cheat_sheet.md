@@ -12,7 +12,6 @@
 //add the edited stuff into local git 
 `$git add . `<br>
 
-//assign remote repo
 `$git remote add origin https://github.com/<user>/<repo>.git`<br>
 
 //push to cloud
