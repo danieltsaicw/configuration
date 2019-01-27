@@ -13,10 +13,10 @@
 `$git add . `<br>
 
 //assign remote repo
-`$git origin add `<br>
+`$git remote add origin https://github.com/<user>/<repo>.git`<br>
 
 //push to cloud
-`$git push origin master` <br>
+`$git push -u origin master` <br>
 
 
 //
