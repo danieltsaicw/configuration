@@ -1,6 +1,6 @@
 
 #local shell
-chomd 700 <key_name>pem
+chomd 700 <key_name>.pem
 connect EC2 # check AWSconsole, click "CONNECT"
 
 
