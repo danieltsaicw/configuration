@@ -20,3 +20,6 @@
 
 `git log -2`<br>
 `git reset --hard`<br>
+
+
+`git fetch`<br>
