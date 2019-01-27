@@ -5,23 +5,14 @@
 `$ssh -T git@github.com`  //test connection<br>
 
 
-//initiate git
 
 `$git init` <br>
-
-//add the edited stuff into local git 
-`git add . `<br>
+`git add .`<br>
+'git commit -m '<first_commit>'<br>
 
 `git remote add origin https://github.com/<user>/<repo>.git`<br>
-
 `git push -u origin master` # requires credential without '-u'<br> 
 
 
-//
 `git satus`<br>
-
-
-//change repo name
-
-git clone 
-git clone <url>
+`git clone https://github.com/<user>/<repo>.git`
