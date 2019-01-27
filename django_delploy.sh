@@ -1,4 +1,9 @@
 
+#local shell
+chomd 700 <key_name>pem
+connect EC2 # check AWSconsole, click "CONNECT"
+
+
 #EC2 shell
 sudo apt-get install python-pip 
 sudo apt-get install python-dev
